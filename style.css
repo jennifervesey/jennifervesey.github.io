@@ -1,0 +1,23 @@
+p {
+	color:dodgerblue;
+	font-family: Ariel;
+	font-size: 18px;
+	}
+
+table, th, td {border:1px solid black;}
+
+body {
+	background-color: lightgray;
+}
+
+h1 {
+	color:mediumblue;
+	font-family:apple chancery;
+	font-size: 30px;
+}
+h2, h3, h4, h5 {
+	color:indianred;
+	font-family: Ariel;
+	font-size: 24px;
+}
+
